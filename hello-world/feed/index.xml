@@ -10,13 +10,13 @@
 	Comments on: Hello world!	</title>
 	<atom:link href="https://smolinskamila.github.io/portfolio/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>https://smolinskamila.github.io/portfolio/hello-world/</link>
-	<description></description>
+	<description>PORTFOLIO</description>
 	<lastBuildDate>Sat, 13 Jul 2024 21:22:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
